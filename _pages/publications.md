@@ -4,15 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Monograph
-=====
 
 **Medical Texts in Anglo-Saxon Literary Culture** D.S. Brewer: Cambridge, 2020.
 
 This book offers the first comprehensive analysis of the literary and historical contexts of the four vernacular medical collections extant from Anglo-Saxon England. This study positions these texts as products of a learned literary culture, arguing that all four collections were produced in major ecclesiastical centres. The final chapter considers the fundamentally positive depiction of doctors and medicine found within literary and ecclesiastical works from the period and suggests that the high esteem for medicine in literate circles may have favoured the study and translation of medical texts. This book was the winner of the prize for Best First Monograph given biennially by the International Society for the Study of Early Medieval England (ISSEME).  
 
-Articles
-=====
+
 **'The Artistry of Bald's Colophon'** *Anglo-Saxon England* 48 (2021) [forthcoming]
 
 *Abstract:* *Bald's Leechbook*, the most famous of the Old English medical collections, derives its name from a colophon in Latin hexameter verse that occurs on the final folio of the collection. Previous scholarly attention to the colophon has been nearly entirely directed at discerning the relationship of two named figures (Bald and Cild) and their role (if any) in the creation of Bald?s Leechbook. Yet given the rarity of verse colophons in Anglo-Saxon manuscripts and the unusual placement of this text at the end of a technical work in Old English, these verses also deserve study for their place within the larger genre of poetic colophons and framing texts from Anglo-Saxon England. This article examines for the first time the form of the colophon and its character as a work of Anglo-Latin verse as well as its relationship with the vernacular prefatory tradition associated with King Alfred.
