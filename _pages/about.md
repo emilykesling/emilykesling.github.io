@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a medievalist working on early medieval England. My main interests relate to medieval intellectual and literary culture, with a focus on communities of learning and the ways that medieval people constructed their identities and understood the world. I completed a doctorate at the University of Oxford in 2017. After that, I was employed at the University of Oslo as a postdoctoral research fellow. My doctoral dissertation focused the earliest English medical collections. A revised verision of this work was published in 2020 with the title Medical Texts in Anglo-Saxon Literary Culture. This book was awarded the biennial prize for Best First Monograph by the International Society for the Study of Early Medieval England (ISSEME). My recent research focuses on the Insular scribal communities responsible for copying the earliest extant private devotional collections. As part of this work, I have examined how a series texts aimed at stopping excessive bleeding can act as prisms into the literary, intellectual, and devotional interests of female monastic communities. Alongside this, I have also examined the role of female scribes in shaping political culture in tenth-century Winchester through the works they copied.  My ongoing work relates to these topics, as well as the intellectual exchange between England and the Continent between the seventh and tenth centuries.On this site you can read more about my research and teaching. If you are interested in medieval topics or want to collaborate, please get in touch!
 
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +50,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
