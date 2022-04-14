@@ -16,13 +16,13 @@ This book offers the first comprehensive analysis of the literary and historical
 
 **'The *Royal Prayerbook* and Early Insular Scribal Communities'** *Early Medieval Europe* 29.2 (2021)
 
-*Abstract:* The Royal Prayerbook contains a variety of entries aimed at staunching a flow of blood, three of which are related by a shared poetic motif. An examination of the elements in these texts suggests that all three are a meditation on a scene from the gospels, the healing of the woman with the issue of blood. This article argues these texts were compiled in a learned milieu, probably within a female or double monastic house; from an Insular centre, they moved to the Continent, perhaps as a consequence of the involvement of women in the mission movement.
+*Abstract:* The *Royal Prayerbook* contains a variety of entries aimed at staunching a flow of blood, three of which are related by a shared poetic motif. An examination of the elements in these texts suggests that all three are a meditation on a scene from the gospels, the healing of the woman with the issue of blood. This article argues these texts were compiled in a learned milieu, probably within a female or double monastic house; from an Insular centre, they moved to the Continent, perhaps as a consequence of the involvement of women in the mission movement.
 
 
 **'A Blood-Staunching Charm of Royal 2.A.xx and its Greek Text'** Peritia 32 (2021)
 
-*Abstract:* The so-called ?Royal Prayer-book? (London, British Library, MS Royal 2.A.xx) contains several related prayers for staunching a flow of blood. One of these entries contains several portions of Greek text written in Greek characters. This paper suggests that these Greek sections come ultimately from a background of Greek incantations and amuletic texts, which were likely transmitted through Late Antique medical sources.
+*Abstract:* The so-called 'Royal Prayer-book' (London, British Library, MS Royal 2.A.xx) contains several related prayers for staunching a flow of blood. One of these entries contains several portions of Greek text written in Greek characters. This paper suggests that these Greek sections come ultimately from a background of Greek incantations and amuletic texts, which were likely transmitted through Late Antique medical sources.
 
 **'Translation Style in the *Old English Herbarium*'** *Notes and Queries* 63 (2016)
 
-*Abstract:* The Old English Herbarium is the name given to the English translation of a variety of Late Antique medical treatises. This article considers how the Anglo-Saxon translator, though generally faithful to his Latin text, subtly altered his text in ways that demonstrate an interest in clarity and functionality, rather than an aspiration towards academic reproduction. 
+*Abstract:* The *Old English Herbarium* is the name given to the English translation of a variety of Late Antique medical treatises. This article considers how the Anglo-Saxon translator, though generally faithful to his Latin text, subtly altered his text in ways that demonstrate an interest in clarity and functionality, rather than an aspiration towards academic reproduction. 
