@@ -25,3 +25,7 @@ Articles
 **'A Blood-Staunching Charm of Royal 2.A.xx and its Greek Text'** Peritia 32 (2021)
 
 *Abstract:* The so-called ?Royal Prayer-book? (London, British Library, MS Royal 2.A.xx) contains several related prayers for staunching a flow of blood. One of these entries contains several portions of Greek text written in Greek characters. This paper suggests that these Greek sections come ultimately from a background of Greek incantations and amuletic texts, which were likely transmitted through Late Antique medical sources.
+
+**'Translation Style in the *Old English Herbarium*'** *Notes and Queries* 63 (2016)
+
+*Abstract:* The Old English Herbarium is the name given to the English translation of a variety of Late Antique medical treatises. This article considers how the Anglo-Saxon translator, though generally faithful to his Latin text, subtly altered his text in ways that demonstrate an interest in clarity and functionality, rather than an aspiration towards academic reproduction. 
