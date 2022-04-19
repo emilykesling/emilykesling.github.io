@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,16 +18,16 @@ Education
 Employment
 ======
 *  2018-2021: Postdoctoral Research Fellow
-  * University of Oslo
+  	* University of Oslo
 
 * 2014-2017: Lecturer I in Old English
-  * Magdalen College, Oxford
+  	* Magdalen College, Oxford
   
  * 2016: Lecturer in English
-  * Oriel College, Oxford
+ 	* Oriel College, Oxford
   
 * 2016: Lecturer in English
-  * Jesus College, Oxford
+  	* Jesus College, Oxford
   
 <!---
 Publications
