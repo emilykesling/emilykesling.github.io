@@ -11,31 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* D.Phil. in English (to 1550), University of Oxford, 2017
+* M.St. in Medieval Studies, University of Oxford, 2012
+* B.A. in History, University of Washington, 2011
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  2018-2021: Postdoctoral Research Fellow
+  * University of Oslo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2017: Lecturer I in Old English
+  * Magdalen College, Oxford
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+ * 2016: Lecturer in English
+  * Oriel College, Oxford
+  
+* 2016: Lecturer in English
+  * Jesus College, Oxford
+  
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +51,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
