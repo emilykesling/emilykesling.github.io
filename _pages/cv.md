@@ -24,10 +24,13 @@ Employment
   	* Magdalen College, Oxford
   
  * 2016: Lecturer in English
- 	* Oriel College, Oxford
+ 	 * Oriel College, Oxford
   
 * 2016: Lecturer in English
-  	* Jesus College, Oxford
+  	* Jesus College, Oxford 
+
+
+*For a full CV, please contact me*
   
 <!---
 Publications
