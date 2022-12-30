@@ -18,7 +18,7 @@ Education
 Employment
 ======
 *  2022-   : Lecturer in English
-	* Corpus Christi College, Oxford
+  	* Corpus Christi College, Oxford
 	
 *  2018-2021: Postdoctoral Research Fellow
   	* University of Oslo
