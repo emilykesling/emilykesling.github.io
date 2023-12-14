@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Emily Kesling"
   avatar           : "bio-photo.jpg"
-  bio              : "Corpus Christi College, Oxford"
+  bio              : "University of Bergen"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=b4r3BZUAAAAJ"
-  email            : "emily.kesling@iln.uio.no"
+  email            : "emily.kesling@uib.no"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
