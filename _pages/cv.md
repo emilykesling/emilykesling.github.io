@@ -17,7 +17,10 @@ Education
 
 Employment
 ======
-*  2022-   : Lecturer in English
+*  2023-  : Postdoctoral Research Fellow
+  	* University of Bergen
+
+*  2022- 2023 : Lecturer in English
   	* Corpus Christi College, Oxford
 	
 *  2018-2021: Postdoctoral Research Fellow
